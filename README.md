@@ -89,3 +89,10 @@ The system is implemented using **object-oriented programming principles** in Ja
 - **Test Case 3**: Searching Cars by Brand  
   **Test Assertion**:  
   Search for a car with the brand "Tesla" and verify that all matching cars are returned in the search results.
+
+## Conclusion
+The **Car Rental Management System** is a robust solution for managing car rentals, offering various features such as adding, modifying, and removing cars and customers, renting cars, and managing rental details. The system is modular and follows object-oriented principles, making it easy to maintain and extend in the future.
+
+---
+
+Feel free to reach out if you need further details or clarification on any aspect of the project!
