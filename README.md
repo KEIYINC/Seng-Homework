@@ -1,7 +1,4 @@
-# Car Rental Management System Report
-
-**Name**: Umut Eren KEIYINCI  
-**Student Number**: 17578815226  
+# Car Rental Management System 
 
 ## Introduction
 The **Car Rental Management System** is a Java-based application designed to manage the renting of cars to customers. The system provides functionality for adding new cars and customers, displaying available cars for rent, renting cars to customers, displaying customer details, managing rental details, and more. The system follows **Object-Oriented Programming (OOP)** principles for better modularity, maintainability, and scalability.
